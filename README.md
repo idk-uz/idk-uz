@@ -1,7 +1,7 @@
 # 👋 Salom, Men Doniyor
 
 ## 🚀 Men haqimda
-Har kuni yangi narsa yaratishga o'zimni startup mni qurishga harakat qilayapman , va bu yo'l bo'ylab taslim bo'lmayman
+Har kuni yangi narsa yaratishga o'zimni startup mni qurishga harakat qilayapman , va bu yo'l bo'ylab taslim bo'lmayman.
 
 ---
 
