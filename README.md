@@ -26,9 +26,10 @@ Har kuni yangi narsa yaratishga o'zimni startup mni qurishga harakat qilayapman 
 
 ---
 
-## 🔗 Bog'lanish
+## 🔗 Bog'lanish uchun 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idk_uz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/47tmrdv)
 
 
 
