@@ -1,4 +1,4 @@
-<img src="https://github.com/bohd4nx/bohd4nx/raw/main/src/wave.gif" width="35px"> Salom, Men Doniyor
+## Salom, Men Doniyor <img src="https://github.com/bohd4nx/bohd4nx/raw/main/src/wave.gif" width="35px">
 
 ## 🚀 Men haqimda
 Har kuni yangi narsa yaratishga o'zimni startup mni qurishga harakat qilayapman , va bu yo'l bo'ylab taslim bo'lmayman.
