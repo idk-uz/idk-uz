@@ -1,4 +1,4 @@
-# 👋 Salom, Men Doniyor
+##<img src="https://i.ibb.co/3Kj8GtY/Restricted-Emoji-Ag-ADex-YAAi-Kl8-Es.gif" width="35px"> Salom, Men Doniyor
 
 ## 🚀 Men haqimda
 Har kuni yangi narsa yaratishga o'zimni startup mni qurishga harakat qilayapman , va bu yo'l bo'ylab taslim bo'lmayman.
